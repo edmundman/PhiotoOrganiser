@@ -1,7 +1,5 @@
-# Web app framework
 streamlit
-# AI model interaction
-ollama
-
-# File type detection
-python-magic
+pillow
+transformers
+torch
+piexif
