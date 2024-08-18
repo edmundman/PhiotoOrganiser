@@ -11,7 +11,7 @@ logger = logging.getLogger(__name__)
 organizer = ImageOrganizer()
 
 def main():
-    st.title("Advanced Image Organizer (Phi Vision)")
+    st.title("Phi3oto Organiser")
     logger.info("Application started")
 
     # Set up the organizer
